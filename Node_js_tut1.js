@@ -51,4 +51,3 @@ if(age<18){
 else{
     console.log("sorry")
 }
-//awdqqnakdhqkjbjha
